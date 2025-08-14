@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(87, 209, 234);
+    display: flex;
+    justify-content: center;
+}
+
+.form-container{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+    width: 20vw;
+    text-align: center;
+    
+}
+
+form label{
+    display: block;
+    margin-top: 8px;
+}
+
